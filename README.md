@@ -99,4 +99,4 @@ This dashboard enables business stakeholders to **track sales performance, custo
 
 ---
  Screenshots / Demos
-Show what the dashboard looks like. - Alt text Example:
+Show what the dashboard looks like. - Alt text Example:https://github.com/DhaneshBansode/dashboard/blob/main/ecommerce%20dashboard.png
